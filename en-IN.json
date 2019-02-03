@@ -1,0 +1,30 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "t=best way",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "TravelIntent",
+          "samples": [
+            "ahmedabad to IIIT vadodara",
+            "here to my college",
+            "Ahmedabad railwat station to my college",
+            "Ahmedabad airport to my college" ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}
